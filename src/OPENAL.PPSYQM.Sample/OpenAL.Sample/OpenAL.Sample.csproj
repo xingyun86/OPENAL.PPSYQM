@@ -21,6 +21,6 @@
     <PackageReference Include="Meadow.Foundation" Version="1.3.0" />
     <PackageReference Include="Meadow.Linux" Version="1.3.0" />
     <PackageReference Include="Meadow.Windows" Version="1.3.0" />
-    <PackageReference Include="OPENAL.PPSYQM" Version="1.0.3" />
+    <PackageReference Include="OPENAL.PPSYQM" Version="1.0.4" />
   </ItemGroup>
 </Project>
